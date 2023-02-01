@@ -54,6 +54,8 @@ function App() {
     setFilteredPhotos(filteredPhotos);
   };
 
+  const testError = (error);
+
   return (
     <div className="App">
       <h1>Your Daily Dose of Vitamin K(itten)!</h1>
